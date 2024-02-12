@@ -1,16 +1,26 @@
-# google_map_clone
 
-A new Flutter project.
+# Flutter Google Maps Clone Clean Architecture
 
-## Getting Started
+This **Google Maps Clone** is from the ongoing Flutter & Firebase Developer Bootcamp on YouTube. This App is currently underdevelopment on YouTube.
 
-This project is a starting point for a Flutter application.
+<h2>🦾 App Features</h2>
 
-A few resources to get you started if this is your first Flutter project:
+This **Flutter WhatsApp Clone Clean Architecture** is going to include the following features.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Google Maps UI Design
+- Get realtime current location
+- Reverse Geocoding from coordinates (latitude & longitude)
+- Integrating APIs (Nearby Places & Search)
+- Drawing Polylines between 2 points
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>📧 Feedback</h2>
+
+<p dir="auto">If you have any feedback, please reach out to me at <a href="mailto:ak187429@gmail.com">ak187429@gmail.com</a></p>
+
+# 🎥 Watch now
+
+Watch Flutter & Firebase Developer Bootcamp to learn software development best practices with flutter and become an in-demand Flutter Developer.
+
+<h2>YouTube</h2>
+
+Link: https://www.youtube.com/playlist?list=PLbgNPmiSEwEa4AC4msITOYfY8WXOP2irn
